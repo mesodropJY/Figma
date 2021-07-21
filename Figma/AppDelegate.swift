@@ -14,6 +14,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        let image = UIImage(named: "back")
+                UINavigationBar.appearance().backIndicatorImage = image
+                UINavigationBar.appearance().backIndicatorTransitionMaskImage = image
+        
         return true
     }
 

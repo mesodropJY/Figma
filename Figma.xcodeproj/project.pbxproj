@@ -13,6 +13,15 @@
 		2712A59126A527B100E88BF5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2712A58F26A527B100E88BF5 /* Main.storyboard */; };
 		2712A59326A527B300E88BF5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2712A59226A527B300E88BF5 /* Assets.xcassets */; };
 		2712A59626A527B300E88BF5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2712A59426A527B300E88BF5 /* LaunchScreen.storyboard */; };
+		2732ED9A26A6A2230031E7C1 /* DMSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2732ED9926A6A2230031E7C1 /* DMSans-Regular.ttf */; };
+		2783862626A6C9DE00EAAB29 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2783862526A6C9DE00EAAB29 /* SignUpViewController.swift */; };
+		2783862826A6C9F100EAAB29 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2783862726A6C9F100EAAB29 /* LoginViewController.swift */; };
+		2783862A26A7126C00EAAB29 /* LetfVIew.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2783862926A7126C00EAAB29 /* LetfVIew.swift */; };
+		27BC98EC26A6BC1300CFBBF8 /* DMSans-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27BC98E626A6BC1300CFBBF8 /* DMSans-Italic.ttf */; };
+		27BC98ED26A6BC1300CFBBF8 /* DMSans-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27BC98E726A6BC1300CFBBF8 /* DMSans-Medium.ttf */; };
+		27BC98EE26A6BC1300CFBBF8 /* DMSans-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27BC98E826A6BC1300CFBBF8 /* DMSans-BoldItalic.ttf */; };
+		27BC98EF26A6BC1300CFBBF8 /* DMSans-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27BC98E926A6BC1300CFBBF8 /* DMSans-MediumItalic.ttf */; };
+		27BC98F026A6BC1300CFBBF8 /* DMSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27BC98EA26A6BC1300CFBBF8 /* DMSans-Bold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +33,15 @@
 		2712A59226A527B300E88BF5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2712A59526A527B300E88BF5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2712A59726A527B300E88BF5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2732ED9926A6A2230031E7C1 /* DMSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-Regular.ttf"; sourceTree = "<group>"; };
+		2783862526A6C9DE00EAAB29 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
+		2783862726A6C9F100EAAB29 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		2783862926A7126C00EAAB29 /* LetfVIew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LetfVIew.swift; sourceTree = "<group>"; };
+		27BC98E626A6BC1300CFBBF8 /* DMSans-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-Italic.ttf"; sourceTree = "<group>"; };
+		27BC98E726A6BC1300CFBBF8 /* DMSans-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-Medium.ttf"; sourceTree = "<group>"; };
+		27BC98E826A6BC1300CFBBF8 /* DMSans-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-BoldItalic.ttf"; sourceTree = "<group>"; };
+		27BC98E926A6BC1300CFBBF8 /* DMSans-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-MediumItalic.ttf"; sourceTree = "<group>"; };
+		27BC98EA26A6BC1300CFBBF8 /* DMSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-Bold.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,10 +77,19 @@
 				2712A58926A527B100E88BF5 /* AppDelegate.swift */,
 				2712A58B26A527B100E88BF5 /* SceneDelegate.swift */,
 				2712A58D26A527B100E88BF5 /* ViewController.swift */,
+				2732ED9926A6A2230031E7C1 /* DMSans-Regular.ttf */,
+				27BC98EA26A6BC1300CFBBF8 /* DMSans-Bold.ttf */,
+				27BC98E826A6BC1300CFBBF8 /* DMSans-BoldItalic.ttf */,
+				27BC98E626A6BC1300CFBBF8 /* DMSans-Italic.ttf */,
+				27BC98E726A6BC1300CFBBF8 /* DMSans-Medium.ttf */,
+				27BC98E926A6BC1300CFBBF8 /* DMSans-MediumItalic.ttf */,
 				2712A58F26A527B100E88BF5 /* Main.storyboard */,
 				2712A59226A527B300E88BF5 /* Assets.xcassets */,
 				2712A59426A527B300E88BF5 /* LaunchScreen.storyboard */,
 				2712A59726A527B300E88BF5 /* Info.plist */,
+				2783862526A6C9DE00EAAB29 /* SignUpViewController.swift */,
+				2783862726A6C9F100EAAB29 /* LoginViewController.swift */,
+				2783862926A7126C00EAAB29 /* LetfVIew.swift */,
 			);
 			path = Figma;
 			sourceTree = "<group>";
@@ -126,8 +153,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				2712A59626A527B300E88BF5 /* LaunchScreen.storyboard in Resources */,
+				27BC98F026A6BC1300CFBBF8 /* DMSans-Bold.ttf in Resources */,
 				2712A59326A527B300E88BF5 /* Assets.xcassets in Resources */,
+				27BC98EE26A6BC1300CFBBF8 /* DMSans-BoldItalic.ttf in Resources */,
+				27BC98EC26A6BC1300CFBBF8 /* DMSans-Italic.ttf in Resources */,
 				2712A59126A527B100E88BF5 /* Main.storyboard in Resources */,
+				27BC98EF26A6BC1300CFBBF8 /* DMSans-MediumItalic.ttf in Resources */,
+				2732ED9A26A6A2230031E7C1 /* DMSans-Regular.ttf in Resources */,
+				27BC98ED26A6BC1300CFBBF8 /* DMSans-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,7 +172,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				2712A58E26A527B100E88BF5 /* ViewController.swift in Sources */,
+				2783862A26A7126C00EAAB29 /* LetfVIew.swift in Sources */,
 				2712A58A26A527B100E88BF5 /* AppDelegate.swift in Sources */,
+				2783862626A6C9DE00EAAB29 /* SignUpViewController.swift in Sources */,
+				2783862826A6C9F100EAAB29 /* LoginViewController.swift in Sources */,
 				2712A58C26A527B100E88BF5 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -292,6 +328,9 @@
 				DEVELOPMENT_TEAM = 76CL67W6AF;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Figma/Info.plist;
+				INFOPLIST_KEY_CFBundleExecutable = Figma;
+				INFOPLIST_KEY_CFBundleName = Figma;
+				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -320,6 +359,9 @@
 				DEVELOPMENT_TEAM = 76CL67W6AF;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Figma/Info.plist;
+				INFOPLIST_KEY_CFBundleExecutable = Figma;
+				INFOPLIST_KEY_CFBundleName = Figma;
+				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
